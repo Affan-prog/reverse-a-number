@@ -1,0 +1,2 @@
+hello my name is affan
+i made this simple program to reverse a number.
