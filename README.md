@@ -1,2 +1,2 @@
-simple program to reverse the digits of a number<br>
-Author-Muhammad Affan
+simple program to reverse the digits of a number<br><br>
+Author- Muhammad Affan
